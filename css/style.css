@@ -65,7 +65,7 @@ h2 {
     text-decoration: none;
 }
 
-.links li a spam {
+.links li a span {
     display: block;
     color:rgb(66, 66, 66);
     text-align: center;
